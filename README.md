@@ -77,11 +77,11 @@ Customer-Behavior-Analysis/
 ---
 
 ## 📊 Dashboard Preview
+<img width="596" height="334" alt="Dashboard" src="https://github.com/user-attachments/assets/f1f2fb6f-c4db-47d5-8f89-0fecf447c780" />
 
-*(Add a screenshot here after uploading)*
 
 ```
-![Dashboard](dashboard.png)
+
 ```
 
 ---
