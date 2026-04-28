@@ -80,33 +80,7 @@ Customer-Behavior-Analysis/
 <img width="596" height="334" alt="Dashboard" src="https://github.com/user-attachments/assets/f1f2fb6f-c4db-47d5-8f89-0fecf447c780" />
 
 
-```
 
-```
-
----
-
-## 🚀 How to Run
-
-### Python
-
-```
-pip install pandas matplotlib seaborn
-jupyter notebook
-```
-
-Open:
-
-```
-data_preprocessing_and_eda.ipynb
-```
-
-### Power BI
-
-Open:
-
-```
-customer_behavior_dashboard.pbix
 ```
 
 ---
