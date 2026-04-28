@@ -81,16 +81,6 @@ Customer-Behavior-Analysis/
 
 
 
-```
-
----
-
-
-
-
-
-
-
 ## 📌 Future Improvements
 
 * Add customer segmentation (clustering)
